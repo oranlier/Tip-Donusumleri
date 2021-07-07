@@ -1,0 +1,16 @@
+C:\Users\brk\Documents\patika\Tip Donusumleri\bin\Debug\net5.0\Tip Donusumleri.exe
+C:\Users\brk\Documents\patika\Tip Donusumleri\bin\Debug\net5.0\Tip Donusumleri.deps.json
+C:\Users\brk\Documents\patika\Tip Donusumleri\bin\Debug\net5.0\Tip Donusumleri.runtimeconfig.json
+C:\Users\brk\Documents\patika\Tip Donusumleri\bin\Debug\net5.0\Tip Donusumleri.runtimeconfig.dev.json
+C:\Users\brk\Documents\patika\Tip Donusumleri\bin\Debug\net5.0\Tip Donusumleri.dll
+C:\Users\brk\Documents\patika\Tip Donusumleri\bin\Debug\net5.0\ref\Tip Donusumleri.dll
+C:\Users\brk\Documents\patika\Tip Donusumleri\bin\Debug\net5.0\Tip Donusumleri.pdb
+C:\Users\brk\Documents\patika\Tip Donusumleri\obj\Debug\net5.0\Tip Donusumleri.csproj.AssemblyReference.cache
+C:\Users\brk\Documents\patika\Tip Donusumleri\obj\Debug\net5.0\Tip Donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brk\Documents\patika\Tip Donusumleri\obj\Debug\net5.0\Tip Donusumleri.AssemblyInfoInputs.cache
+C:\Users\brk\Documents\patika\Tip Donusumleri\obj\Debug\net5.0\Tip Donusumleri.AssemblyInfo.cs
+C:\Users\brk\Documents\patika\Tip Donusumleri\obj\Debug\net5.0\Tip Donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\brk\Documents\patika\Tip Donusumleri\obj\Debug\net5.0\Tip Donusumleri.dll
+C:\Users\brk\Documents\patika\Tip Donusumleri\obj\Debug\net5.0\ref\Tip Donusumleri.dll
+C:\Users\brk\Documents\patika\Tip Donusumleri\obj\Debug\net5.0\Tip Donusumleri.pdb
+C:\Users\brk\Documents\patika\Tip Donusumleri\obj\Debug\net5.0\Tip Donusumleri.genruntimeconfig.cache
